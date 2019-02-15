@@ -1,4 +1,4 @@
 
-public class Mall {
-
+public abstract class Mall {
+	abstract void visit(Shopper theShopper); 
 }
